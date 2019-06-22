@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "fstream": "^1.0.12",
-    "npm": "^6.9.0",
     "tar": "^4.4.10"
   }
 }
